@@ -1,6 +1,6 @@
 package DZ_3_lesson;
 
-public class coordinates {
+public class Coordinates {
     public static void main(String[] args) {
 
         double x = 30.242913;

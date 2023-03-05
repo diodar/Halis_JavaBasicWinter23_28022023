@@ -1,6 +1,6 @@
 package DZ_3_lesson;
 
-public class paralelepiped {
+public class Paralelepiped {
     public static void main(String[] args) {
 
         int a = 3;
