@@ -11,6 +11,5 @@ public class Paralelepiped {
 
         System.out.println("Об'єм паралелепіпеда = " + volume);
         System.out.println("Сумарна довжина всіх сторін = " + length);
-
     }
 }
