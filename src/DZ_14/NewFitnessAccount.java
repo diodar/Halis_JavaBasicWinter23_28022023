@@ -76,6 +76,22 @@ public class NewFitnessAccount {
         this.weight = weight;
     }
 
+    public String getSurname() {
+        return surname;
+    }
+
+    public int getSteps() {
+        return steps;
+    }
+
+    public double getWeight() {
+        return weight;
+    }
+
+    public String getPressure() {
+        return pressure;
+    }
+
     public void setPressure(int pressureUp, int pressureDown) {
         this.pressureUp = pressureUp;
         this.pressureDown = pressureDown;
